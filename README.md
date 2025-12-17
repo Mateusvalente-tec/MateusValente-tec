@@ -2,8 +2,8 @@
 
 **`Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas`**
 
-Sou formado em Segurança do Trabalho e atualmente estou em transição de carreira para a área de Tecnologia da Informação. Curso Análise e Desenvolvimento de Sistemas (ADS) e possuo grande interesse em desenvolvimento de sistemas, com foco em aprendizado contínuo e boas práticas de programação.
-
+Sou formado em Segurança do Trabalho e estou em transição de carreira para a área de Tecnologia da Informação.
+Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo projetos de estudo em lógica de programação e desenvolvimento de sistemas, com foco em boas práticas e aprendizado contínuo.
 <p align="left">
   <a href="https://www.linkedin.com/in/mateus-valente-amaral/" target="_blank">
     <img
