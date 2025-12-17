@@ -75,7 +75,7 @@ Sou formado em Segurança do Trabalho e atualmente estou em transição de carre
 <br/>
 <br/>
 
-### 📊 Estatísticas de Estudo e Aprendizado no GitHub
+### 📊 Estatísticas 
 
 <p>
   <img
