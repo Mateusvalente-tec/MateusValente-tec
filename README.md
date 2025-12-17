@@ -83,7 +83,8 @@ Sou formado em Segurança do Trabalho e atualmente estou em transição de carre
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=MateusValente-tec&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=MateusValente-tec&show_icons=true&theme=tokyonight&custom_title=Estatística%20de%20Estudo%20e%20Aprendizado&include_al_"
+
   />
   <img
     align="left"
