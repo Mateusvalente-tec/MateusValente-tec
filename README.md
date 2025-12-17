@@ -91,6 +91,22 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
     alt="Tecnologias"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusValente-tec&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-    />
+  />
+
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<p>
+
+### 📌 Objetivo
+
+Consolidar conhecimentos em desenvolvimento de sistemas e atuar como desenvolvedor júnior ou estagiário na área de tecnologia.
+
+  
+</p>
