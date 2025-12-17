@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Mateus Valente Vieira Amaral, tenho 22 anos e sou natural de Minas Gerais. Sou formado na área de Segurança do Trabalho e atualmente estou em transição de carreira para a área de Tecnologia da Informação, cursando Análise e Desenvolvimento de Sistemas (ADS). Tenho grande interesse por tecnologia e desenvolvimento de sistemas, buscando constantemente aprimorar meus conhecimentos e habilidades na área.
+Sou formado em Segurança do Trabalho e atualmente estou em transição de carreira para a área de Tecnologia da Informação. Curso Análise e Desenvolvimento de Sistemas (ADS) e possuo grande interesse em desenvolvimento de sistemas, com foco em aprendizado contínuo e boas práticas de programação.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mateus-valente-amaral/" target="_blank">
