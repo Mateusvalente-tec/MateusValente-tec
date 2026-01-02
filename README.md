@@ -72,6 +72,14 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    align="left"
+    alt="JAVA"
+    title="JAVA"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"   
+/>
 <br/>
 <br/>
 
@@ -84,7 +92,6 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=MateusValente-tec&show_icons=true&theme=tokyonight&custom_title=Estatística%20de%20Estudo%20e%20Aprendizado&include_al_"
-
   />
   <img
     align="left"
