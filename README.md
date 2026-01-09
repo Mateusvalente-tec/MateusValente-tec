@@ -9,7 +9,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
     <img
       alt="LinkedIn followers"
       title="LinkedIn seguidores"
-      <img src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-531-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003A75"
+      <img src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-581-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003A75"
     />
   </a>  
     <a href="https://github.com/Mateusvalente-tec?tab=repositories&sort=stargazers">
