@@ -16,7 +16,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Mateusvalente-tec?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/MateusValente-tec?color=55960c&style=for-the-badge&labelColor=488207&logo=stars&label=estrelas"
         />
     </a>
     <a href="https://github.com/Mateusvalente-tec?tab=followers">
@@ -86,22 +86,18 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
 ### 📊 Estatísticas 
 
 <p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=MateusValente-tec&show_icons=true&theme=tokyonight&custom_title=Estatística%20de%20Estudo%20e%20Aprendizado&include_al_"
-  />
-  <img
-    align="left"
-    alt="Tecnologias"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusValente-tec&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-  />
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateusvalente-tec&-engsoft&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
 
 </p>
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
