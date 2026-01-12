@@ -23,7 +23,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            <img src="https://custom-icon-badges.demolab.com/badge/SEGUIDORES-0-6A1B9A?style=for-the-badge&logo=github&logoColor=white&labelColor=4A148C"
+            <img src="https://custom-icon-badges.demolab.com/badge/SEGUIDORES-1-6A1B9A?style=for-the-badge&logo=github&logoColor=white&labelColor=4A148C"
         />
     </a>
 </p>
