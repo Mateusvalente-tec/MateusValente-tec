@@ -16,7 +16,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MateusValente-tec?color=55960c&style=for-the-badge&labelColor=488207&logo=stars&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/MateusValente-tec?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Mateusvalente-tec?tab=followers">
