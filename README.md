@@ -91,7 +91,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateusvalente-tec&-engsoft&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateusvalente-tec&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
 </p>
